@@ -1,5 +1,5 @@
 
-![Logo](https://i.imgur.com/ybzwr2w.png)
+<img src="https://i.imgur.com/ybzwr2w.png " width="100">
 
 
 # Hi, I'm James! 👋
