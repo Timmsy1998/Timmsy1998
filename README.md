@@ -1,6 +1,6 @@
-
+<p align="center">
 <img src="https://i.imgur.com/ybzwr2w.png " width="400">
-
+</p>
 
 # Hi, I'm James! 👋
 
