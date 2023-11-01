@@ -1,5 +1,5 @@
 
-<img src="https://i.imgur.com/ybzwr2w.png " width="400">
+<center><img src="https://i.imgur.com/ybzwr2w.png " width="400"></center>
 
 
 # Hi, I'm James! 👋
