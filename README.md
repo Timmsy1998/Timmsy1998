@@ -9,7 +9,7 @@
 My name is James Timms, otherwise known as Timmsy on the interwebs, and I'm a fullstack web developer hailing from the United Kingdom.
 
 Pronouns: He/Him  
-Age: 24  
+Age: 25  
 Years Developing: 11  
 Commercial Development Years:  3
 
