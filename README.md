@@ -21,7 +21,6 @@ I have High Functioning Autistic Spectrum Disorder (Autism) and Asperger's Syndr
 ## 🔗 Links
 [![showcase](https://img.shields.io/badge/my_showcase_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/Timmsy1998/lists/showcase-projects/) 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techytimms/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/IAmTimmsy)
 
 
 ## 🛠 Skills
@@ -29,4 +28,6 @@ I have High Functioning Autistic Spectrum Disorder (Autism) and Asperger's Syndr
 ![Javascript](https://img.shields.io/badge/Javascript-blue?style=for-the-badge&logo=javascript)
 ![Vue.JS](https://img.shields.io/badge/Vue.JS-teal?style=for-the-badge&logo=vuedotjs)
 ![MySQL](https://img.shields.io/badge/MySQL-yellow?style=for-the-badge&logo=mysql)
+![DotNet](https://img.shields.io/badge/.NET%20Framework-black?style=for-the-badge&logo=dotnet)
+![Node.JS](https://img.shields.io/badge/Node.JS-aqua?style=for-the-badge&logo=nodedotjs)
 
