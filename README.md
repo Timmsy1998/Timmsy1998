@@ -11,7 +11,6 @@ My name is James Timms, otherwise known as Timmsy on the interwebs, and I'm a fu
 Pronouns: He/Him  
 Age: 25  
 Years Developing: 11  
-Commercial Development Years:  3
 
 
 ## ⚡️ Fun Fact
