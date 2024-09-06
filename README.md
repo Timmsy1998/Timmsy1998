@@ -18,8 +18,8 @@ I have High Functioning Autistic Spectrum Disorder (Autism) and Asperger's Syndr
 
 
 ## 🔗 Links
-[![showcase](https://img.shields.io/badge/my_showcase_projects-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stars/Timmsy1998/lists/showcase-projects/) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techytimms/)
+[![tests](https://img.shields.io/badge/public_technical_tests-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/stars/Timmsy1998/lists/showcase-projects/](https://github.com/stars/Timmsy1998/lists/technical-tests)) 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techytimms/)  
 
 
 ## 🛠 Skills
