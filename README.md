@@ -18,7 +18,7 @@ I have High Functioning Autistic Spectrum Disorder (Autism) and Asperger's Syndr
 
 
 ## 🔗 Links
-<img alt="Static Badge" src="https://img.shields.io/badge/Public Active Projects-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&link=github.com/stars/Timmsy1998/lists/active-projects">
+[<img alt="Static Badge" src="https://img.shields.io/badge/Public Active Projects-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white">](https://github.com/stars/Timmsy1998/lists/active-projects/)
 
 
 ## 🛠 Skills
