@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/ybzwr2w.png " width="400">
+<img src="https://i.imgur.com/dD0j8uZ.png" width="400">
 </p>
 
 # Hi, I'm James! 👋
@@ -9,8 +9,8 @@
 My name is James Timms, otherwise known as Timmsy on the interwebs, and I'm a fullstack web developer hailing from the United Kingdom.
 
 Pronouns: He/Him  
-Age: 25  
-Years Developing: 11  
+Age: 26  
+Years Developing: 16  
 
 
 ## ⚡️ Fun Fact
@@ -18,8 +18,7 @@ I have High Functioning Autistic Spectrum Disorder (Autism) and Asperger's Syndr
 
 
 ## 🔗 Links
-[![tests](https://img.shields.io/badge/public_technical_tests-000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/stars/Timmsy1998/lists/showcase-projects/](https://github.com/stars/Timmsy1998/lists/technical-tests)) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/techytimms/)  
+<img alt="Static Badge" src="https://img.shields.io/badge/Public Active Projects-black?style=for-the-badge&logo=github&logoColor=black&labelColor=white&link=github.com/stars/Timmsy1998/lists/active-projects">
 
 
 ## 🛠 Skills
