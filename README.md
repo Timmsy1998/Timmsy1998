@@ -16,7 +16,6 @@ I specialize in crafting modern, performant applications using **PHP**, **JavaSc
 - 🧠 Pronouns: He/Him  
 - 🕰️ Years Coding: 16  
 - 🎂 Age: 26  
-- 🌐 Portfolio: [timmsy.dev](https://timmsy.dev/)
 
 ---
 
@@ -48,16 +47,6 @@ Being neurodivergent isn’t a challenge — it’s my superpower. 🧠⚡️
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## 🧭 Let’s Connect
-
-Want to collaborate, chat code, or just geek out over new tech?
-
-📬 Drop me a message or check out my:
-
-- 🔥 Portfolio: [**timmsy.dev**](https://timmsy.dev/)
 
 ---
 
