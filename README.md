@@ -84,6 +84,30 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 
 ---
 
+## 📌 Pinned Projects
+
+<p align="center">
+  <!-- Row 1 -->
+  <a href="https://github.com/Timmsy1998/FinBoard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=FinBoard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Timmsy1998/RiftJS">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=RiftJS&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <!-- Row 2 -->
+  <a href="https://github.com/Timmsy1998/tech-task">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=tech-task&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Timmsy1998/LaraRift">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=LaraRift&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
 <p align="center">
   <em>“Code is not just syntax. It’s creativity, craft, and problem-solving.”</em>
 </p>
