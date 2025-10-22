@@ -99,7 +99,7 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 <p align="center">
   <!-- Row 2 -->
   <a href="https://github.com/Timmsy1998/tech-task">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=tech-task&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=PiltoverClient&theme=tokyonight" />
   </a>
   <a href="https://github.com/Timmsy1998/LaraRift">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=LaraRift&theme=tokyonight" />
