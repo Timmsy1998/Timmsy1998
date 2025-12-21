@@ -16,7 +16,7 @@ I love crafting clean, modern applications that solve real-world problems. My go
 - 🧠 Pronouns: He/Him  
 - 🕰️ Coding Since: 2008 (16 years total)  
 - 💼 Professional Since: 2021 (4 years)  
-- 🎂 Age: 26  
+- 🎂 Age: 27 (Nov 1998)  
 
 ---
 
@@ -75,11 +75,6 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
   <a href="https://open.spotify.com/user/31purvygm2l2rwz5te6o37fmabsm" target="_blank">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31purvygm2l2rwz5te6o37fmabsm&cover_image=true&show_offline=true&theme=natemoo-re&bar_color_cover=true" alt="Spotify Now Playing">
   </a>
-</p>
-
-## 🎵 Recently Played (Spotify)
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31purvygm2l2rwz5te6o37fmabsm&count=10&unique=true" alt="Spotify Recently Played">
 </p>
 
 ---
