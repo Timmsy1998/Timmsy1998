@@ -9,23 +9,20 @@
 
 ## 🚀 About Me
 
-I’m **James Timms** — better known online as **Timmsy** — a creative **fullstack developer** who’s been building for fun since 2008, and professionally since **2021** (4+ years in the industry).  
+I’m **James Timms** (online: **Timmsy**). I’ve been building things for fun since **2008**, and working professionally since **2021**.
 
-I love crafting clean, modern applications that solve real-world problems. My go-to tools are **PHP**, **JavaScript**, and **Microsoft stacks**, but I’m always experimenting with new tech.  
+I like shipping clean, modern apps that solve real problems. I spend most of my time in **PHP**, **JavaScript/TypeScript**, and **Microsoft stacks**, and I enjoy picking up new tools when a project needs them.
 
 - 🧠 Pronouns: He/Him  
-- 🕰️ Coding Since: 2008 (16 years total)  
-- 💼 Professional Since: 2021 (4 years)  
-- 🎂 Age: 27 (Nov 1998)  
+- 🕰️ Coding Since: 2008  
+- 💼 Professional Since: 2021  
+- 🎂 Age: 27 (Nov 1998)
 
 ---
 
-## ⚡ My Superpower
+## ⚡ Focus & Strengths
 
-I’m proudly on the **Autistic Spectrum (High-Functioning/Asperger’s)**.  
-For me, it means hyperfocus, attention to detail, and an obsession with making code elegant and maintainable.  
-
-Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️  
+I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that often shows up as strong focus, attention to detail, and a preference for code that stays readable and maintainable over time.
 
 ---
 
@@ -42,6 +39,8 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 ### 🧱 Microsoft Stack  
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -49,34 +48,21 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 
 ### 🗃️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-## 📌 Pinned Projects
+## 📌 Projects
 
-<p align="center">
-  <!-- Row 1 -->
-  <a href="https://github.com/Timmsy1998/FinBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=FinBoard&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Timmsy1998/RiftJS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=RiftJS&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Row 2 -->
-  <a href="https://github.com/Timmsy1998/PiltoverClient">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=PiltoverClient&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Timmsy1998/LaraRift">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Timmsy1998&repo=LaraRift&theme=tokyonight" />
-  </a>
-</p>
+### Highlights
+- **FinBoard**: https://github.com/Timmsy1998/FinBoard  
+- **RiftJS**: https://github.com/Timmsy1998/RiftJS  
+- **PiltoverClient**: https://github.com/Timmsy1998/PiltoverClient  
+- **LaraRift**: https://github.com/Timmsy1998/LaraRift  
 
 ---
 
 <p align="center">
-  <em>“Code is not just syntax. It’s creativity, craft, and problem-solving.”</em>
+  <em>Code is creativity, craft, and problem-solving.</em>
 </p>
