@@ -56,10 +56,24 @@ I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that
 ## 📌 Projects
 
 ### Highlights
-- **FinBoard**: https://github.com/Timmsy1998/FinBoard  
-- **RiftJS**: https://github.com/Timmsy1998/RiftJS  
-- **PiltoverClient**: https://github.com/Timmsy1998/PiltoverClient  
-- **LaraRift**: https://github.com/Timmsy1998/LaraRift  
+
+<p align="center">
+  <a href="https://github.com/Timmsy1998/FinBoard">
+    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=FinBoard&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Timmsy1998/RiftJS">
+    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=RiftJS&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Timmsy1998/PiltoverClient">
+    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=PiltoverClient&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/Timmsy1998/LaraRift">
+    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=LaraRift&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
