@@ -53,32 +53,6 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Timmsy1998&show_icons=true&theme=tokyonight" alt="Timmsy's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Timmsy1998&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Timmsy1998&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-## 🎧 Now Playing (Spotify)
-
-<p align="center">
-  <a href="https://open.spotify.com/user/31purvygm2l2rwz5te6o37fmabsm" target="_blank">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31purvygm2l2rwz5te6o37fmabsm&cover_image=true&show_offline=true&theme=natemoo-re&bar_color_cover=true" alt="Spotify Now Playing">
-  </a>
-</p>
-
----
-
 ## 📌 Pinned Projects
 
 <p align="center">
@@ -105,8 +79,4 @@ Being neurodivergent isn’t a bug — it’s a feature. 🧩⚡️
 
 <p align="center">
   <em>“Code is not just syntax. It’s creativity, craft, and problem-solving.”</em>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Timmsy1998&style=flat-square&color=blue" alt="Profile Views" />
 </p>
