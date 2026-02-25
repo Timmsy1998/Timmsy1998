@@ -6,13 +6,11 @@
 <p align="center">
   aka <strong>Timmsy</strong> • Fullstack Developer • UK 🇬🇧  
   <br/>
-  I build things. They usually work.
-</p>
-
-<p align="center">
+  <p align="center">
   <a href="https://timmsy.dev">
-    <img src="https://img.shields.io/badge/🚀_Enter_timmsy.dev-7aa2f7?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+    <img src="./profile/cards/portfolio-button.svg" style="width:100%; max-width:520px;" />
   </a>
+</p>
 </p>
 
 ---
@@ -103,6 +101,14 @@ Never because it's trendy.
   <a href="https://github.com/Timmsy1998/tech-task">
     <img src="./profile/cards/tech-task.svg" style="width:100%; max-width:520px;" />
   </a>
+</p>
+
+---
+
+## 🖥️ System Diagnostics
+
+<p align="center">
+  <img src="./profile/cards/system-diagnostics.svg" style="width:100%; max-width:900px;" />
 </p>
 
 ---
