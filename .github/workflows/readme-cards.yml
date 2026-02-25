@@ -21,6 +21,11 @@ jobs:
       - name: Generate custom cards
         run: |
           mkdir -p profile/cards
+
+          node scripts/generate-portfolio-button.js "https://timmsy.dev" profile/cards/portfolio-button.svg
+
+          node scripts/generate-system-diagnostics.js Timmsy1998 profile/cards/system-diagnostics.svg
+
           node scripts/generate-card.js RH-Order-Processing "RiskHub Order Processing Test" profile/cards/riskhub.svg
           node scripts/generate-card.js fuse-stream-overlay-preview "Fuse Stream Overlay Preview" profile/cards/fuse-overlay.svg
           node scripts/generate-card.js tech-task "CheqUp Tech Task" profile/cards/tech-task.svg
@@ -32,5 +37,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add profile/cards/*.svg
-          git commit -m "chore(readme): update custom repo cards" || exit 0
+          git commit -m "chore(readme): update profile widgets" || exit 0
           git push
