@@ -1,39 +1,61 @@
 <p align="center">
-  <img src="https://i.imgur.com/MTIlPA0.png" width="200" alt="James Timms Avatar" style="border-radius: 20%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" />
+  <img src="https://i.imgur.com/MTIlPA0.png" width="200" alt="James Timms Avatar" style="border-radius: 20%; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
 </p>
 
-<h1 align="center">Hey, I'm James 👋</h1>
-<p align="center">aka <strong>Timmsy</strong> • Fullstack Developer • UK 🇬🇧</p>
+<h1 align="center">Hi. I'm James 👋</h1>
+<p align="center">
+  aka <strong>Timmsy</strong> • Fullstack Developer • UK 🇬🇧  
+  <br/>
+  I build things. They usually work.
+</p>
+
+<p align="center">
+  <a href="https://timmsy.dev">
+    <img src="https://img.shields.io/badge/🚀_Enter_timmsy.dev-7aa2f7?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧠 Origin Story
 
-I’m **James Timms** (online: **Timmsy**). I’ve been building things for fun since **2008**, and working professionally since **2021**.
+- Started coding in **2008** because I was curious  
+- Went professional in **2021** because apparently you can get paid for this  
+- Still debugging things at 2am because I enjoy it  
 
-I like shipping clean, modern apps that solve real problems. I spend most of my time in **PHP**, **JavaScript/TypeScript**, and **Microsoft stacks**, and I enjoy picking up new tools when a project needs them.
+I like building clean systems, smooth UIs, and tools that actually solve problems instead of pretending to.
 
-- 🧠 Pronouns: He/Him  
-- 🕰️ Coding Since: 2008  
-- 💼 Professional Since: 2021  
-- 🎂 Age: 27 (Nov 1998)
-
----
-
-## ⚡ Focus & Strengths
-
-I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that often shows up as strong focus, attention to detail, and a preference for code that stays readable and maintainable over time.
+If something can be automated, optimised, or refactored, I will find it.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Dev Mode: Activated
 
-### 🐘 PHP Ecosystem  
+I’m on the autistic spectrum.  
+
+That means:
+
+- Hyperfocus
+- Detail obsession
+- Refactoring for fun
+- Arguing with indentation
+
+Clean code is not optional. It is a lifestyle choice.
+
+---
+
+## 🛠 Arsenal
+
+### 🐘 PHP Things
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
-### ⚙️ JavaScript Ecosystem  
+Yes, I actually enjoy backend architecture.
+
+---
+
+### ⚙️ JavaScript Chaos
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,18 +64,31 @@ I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
 
-### 🧱 Microsoft Stack  
+I like frameworks.  
+I do not like rewriting the same form validation twice.
+
+---
+
+### 🧱 Microsoft Energy
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### 🗃️ Databases  
+Yes, I can context switch without crying.
+
+---
+
+### 🗃 Data Layer
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+Relational when it matters.  
+NoSQL when it makes sense.  
+Never because it's trendy.
+
 ---
 
-## 📌 Pinned Projects
+## 📌 Things I Built (And Did Not Abandon)
 
 <p align="center">
   <a href="https://github.com/Timmsy1998/RH-Order-Processing">
@@ -72,6 +107,18 @@ I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that
 
 ---
 
+## 🎯 Current Objectives
+
+- Build cleaner systems than yesterday  
+- Make UIs smoother than they need to be  
+- Ship things properly  
+- Keep learning  
+
+---
+
 <p align="center">
-  <em>Code is creativity, craft, and problem-solving.</em>
+  <strong>
+    Code is not magic.<br/>
+    It's controlled chaos with syntax highlighting.
+  </strong>
 </p>
