@@ -1,0 +1,53 @@
+name: Generate README cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure output folder
+        run: mkdir -p profile/cards
+
+      - name: RH Order Processing repo card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Timmsy1998&repo=RH-Order-Processing&theme=tokyonight"
+          path: "profile/cards/rh-order-processing.svg"
+
+      - name: Fuse Stream Overlay Preview repo card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Timmsy1998&repo=fuse-stream-overlay-preview&theme=tokyonight"
+          path: "profile/cards/fuse-stream-overlay-preview.svg"
+
+      - name: Tech Task repo card
+        uses: soulteary/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: "username=Timmsy1998&repo=tech-task&theme=tokyonight"
+          path: "profile/cards/tech-task.svg"
+
+      - name: Commit generated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile/cards/*.svg
+          git commit -m "chore(readme): update repo cards" || exit 0
+          git push
