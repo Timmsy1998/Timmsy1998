@@ -57,16 +57,16 @@ I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that
 
 <p align="center">
   <a href="https://github.com/Timmsy1998/RH-Order-Processing">
-    <img src="./profile/cards/rh-order-processing.svg" />
+    <img src="./profile/cards/riskhub.svg" style="width:100%; max-width:520px;" />
   </a>
   <a href="https://github.com/Timmsy1998/fuse-stream-overlay-preview">
-    <img src="./profile/cards/fuse-stream-overlay-preview.svg" />
+    <img src="./profile/cards/fuse-overlay.svg" style="width:100%; max-width:520px;" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/Timmsy1998/tech-task">
-    <img src="./profile/cards/tech-task.svg" />
+    <img src="./profile/cards/tech-task.svg" style="width:100%; max-width:520px;" />
   </a>
 </p>
 
