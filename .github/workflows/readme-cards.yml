@@ -29,6 +29,7 @@ jobs:
           node scripts/generate-card.js RH-Order-Processing "RiskHub Order Processing Test" profile/cards/riskhub.svg
           node scripts/generate-card.js fuse-stream-overlay-preview "Fuse Stream Overlay Preview" profile/cards/fuse-overlay.svg
           node scripts/generate-card.js tech-task "CheqUp Tech Task" profile/cards/tech-task.svg
+          node scripts/generate-card.js RiftJS "RiftJS" profile/cards/riftjs.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
