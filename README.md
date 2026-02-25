@@ -102,6 +102,11 @@ Never because it's trendy.
     <img src="./profile/cards/tech-task.svg" style="width:100%; max-width:520px;" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/Timmsy1998/RiftJS">
+    <img src="./profile/cards/riftjs.svg" style="width:100%; max-width:520px;" />
+  </a>
+</p>
 
 ---
 
