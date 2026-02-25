@@ -40,18 +40,18 @@
         font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial"
         font-size="14"
         fill="#a9b1d6">
-    RiftJS: A lightweight Node.js wrapper for the Riot Games API,…
+    TypeScript-first Riot Games API wrapper for Node.js with buil…
   </text>
 
   <!-- Language badge -->
   <g transform="translate(34, 100)">
     <rect x="0" y="0" width="170" height="28" rx="14" fill="#1a1b26" stroke="#414868" stroke-opacity="0.45"/>
-    <circle cx="14" cy="14" r="6" fill="#f1e05a" />
+    <circle cx="14" cy="14" r="6" fill="#3178c6" />
     <text x="28" y="19"
           font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial"
           font-size="13"
           fill="#c0caf5">
-      JavaScript
+      TypeScript
     </text>
   </g>
 
