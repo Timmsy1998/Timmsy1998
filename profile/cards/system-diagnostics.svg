@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 900 220" width="100%" height="auto"
+  role="img" aria-label="GitHub system diagnostics"
+  preserveAspectRatio="xMidYMid meet">
+
+  <rect x="0.5" y="0.5" width="899" height="219" rx="16"
+        fill="#1a1b26" stroke="#414868" />
+
+  <rect x="16" y="16" width="868" height="188" rx="12"
+        fill="#24283b" stroke="#414868" stroke-opacity="0.35"/>
+
+  <!-- Header -->
+  <text x="30" y="48"
+    font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+    font-size="16" fill="#7dcfff">
+    $ systemctl status github
+  </text>
+
+  <!-- Status pill -->
+  <g transform="translate(680, 30)">
+    <rect x="0" y="0" width="180" height="28" rx="14" fill="#1a1b26" stroke="#9ece6a" stroke-opacity="0.55"/>
+    <circle cx="18" cy="14" r="6" fill="#9ece6a"/>
+    <text x="34" y="19"
+      font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+      font-size="12" fill="#c0caf5">
+      ACTIVE (RUNNING)
+    </text>
+  </g>
+
+  <!-- Lines -->
+  <text x="30" y="86"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#e0af68">[BOOT] timmsyOS 1.0.0 (tokyonight build)</text>
+<text x="30" y="108"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#a9b1d6">[INFO] user: Timmsy1998</text>
+<text x="30" y="130"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#9ece6a">[OK]   profile: online</text>
+<text x="30" y="152"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#7aa2f7">[STAT] repos: 12 | stars: 3 | forks: 0</text>
+<text x="30" y="174"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#7aa2f7">[STAT] followers: 2 | following: 4</text>
+<text x="30" y="196"
+        font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
+        font-size="13" fill="#a9b1d6">[INFO] account_age: 2,249 days (6.2 years)</text>
+</svg>
