@@ -53,25 +53,20 @@ I’m on the **autistic spectrum (high-functioning/Asperger’s)**. For me, that
 
 ---
 
-## 📌 Projects
-
-### Highlights
+## 📌 Pinned Projects
 
 <p align="center">
-  <a href="https://github.com/Timmsy1998/FinBoard">
-    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=FinBoard&theme=tokyonight" />
+  <a href="https://github.com/Timmsy1998/RH-Order-Processing">
+    <img src="./profile/cards/rh-order-processing.svg" />
   </a>
-  <a href="https://github.com/Timmsy1998/RiftJS">
-    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=RiftJS&theme=tokyonight" />
+  <a href="https://github.com/Timmsy1998/fuse-stream-overlay-preview">
+    <img src="./profile/cards/fuse-stream-overlay-preview.svg" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Timmsy1998/PiltoverClient">
-    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=PiltoverClient&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/Timmsy1998/LaraRift">
-    <img src="https://wiidgets.vercel.app/api/github/repocard?owner=Timmsy1998&repo=LaraRift&theme=tokyonight" />
+  <a href="https://github.com/Timmsy1998/tech-task">
+    <img src="./profile/cards/tech-task.svg" />
   </a>
 </p>
 
