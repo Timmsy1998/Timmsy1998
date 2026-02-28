@@ -40,11 +40,11 @@
         font-size="13" fill="#9ece6a">[OK]   profile: online</text>
 <text x="30" y="152"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-        font-size="13" fill="#7aa2f7">[STAT] repos: 12 | stars: 2 | forks: 0</text>
+        font-size="13" fill="#7aa2f7">[STAT] repos: 13 | stars: 2 | forks: 0</text>
 <text x="30" y="174"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
         font-size="13" fill="#7aa2f7">[STAT] followers: 2 | following: 4</text>
 <text x="30" y="196"
         font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace"
-        font-size="13" fill="#a9b1d6">[INFO] account_age: 2,251 days (6.2 years)</text>
+        font-size="13" fill="#a9b1d6">[INFO] account_age: 2,252 days (6.2 years)</text>
 </svg>
