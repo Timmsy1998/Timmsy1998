@@ -1,135 +1,63 @@
-<p align="center">
-  <img src="https://i.imgur.com/MTIlPA0.png" width="200" alt="James Timms Avatar" style="border-radius: 20%; box-shadow: 0 0 20px rgba(0,0,0,0.4);" />
+<p>
+  <img src="./profile/header.svg" width="900" alt="James Timms — developer & builder. Serious code. A human touch." />
 </p>
 
-<h1 align="center">Hi. I'm James 👋</h1>
-<p align="center">
-  aka <strong>Timmsy</strong> • Fullstack Developer • UK 🇬🇧  
-  <br/>
-  <p align="center">
-  <a href="https://timmsy.dev">
-    <img src="./profile/cards/portfolio-button.svg" style="width:100%; max-width:520px;" />
-  </a>
-</p>
-</p>
+<img align="right" src="./profile/avatar.png" width="140" alt="James Timms" />
+
+# Hey, I’m James.
+
+Most people online know me as **Timmsy**. I’m a full-stack developer in the UK, coding since 2008 and working professionally since 2021.
+
+I like making things that are useful and feel good to use. That might be a Laravel application, a React interface, or a tool for a game I spend too much time playing.
+
+[Portfolio ↗](https://timmsy.dev) · [CV ↗](https://timmsy.dev/cv) · [Email me](mailto:jtimms1998@gmail.com)
+
+<br clear="right" />
+
+## Selected work
+
+### [ASH Esports ↗](https://www.ashesports.co.uk)
+
+A platform for an esports organisation: public teams, results, and broadcasts, with recruitment, roster management, and coaching tools behind the scenes. Connects to Discord, Riot Games, and Twitch.
+
+<a href="https://www.ashesports.co.uk">
+  <img src="./profile/ash-esports.webp" width="900" alt="ASH Esports homepage — visit the live site" />
+</a>
+
+*Next.js · React · TypeScript · Prisma · PostgreSQL*
+
+### [Ultimate League ToolKit ↗](https://github.com/Timmsy1998/Ultimate-League-ToolKit)
+
+A desktop companion for League of Legends. Track ranks and match history, build and import rune pages, and handle everyday tasks through the local client API.
+
+*Electron · React · TypeScript · Vite*
+
+### [Riot Match Analytics ↗](https://github.com/Timmsy1998/riot-match-analytics)
+
+Turns Riot match data into player profiles, match summaries, and performance trends. Built with independently testable analytics and request handling that respects Riot’s API limits.
+
+*Python · FastAPI · HTTPX · Pytest · Docker*
+
+### [PiltoverClient ↗](https://github.com/Timmsy1998/PiltoverClient)
+
+A PHP client for the Riot Games API, usable on its own or in Laravel. Player lookups, profiles, and match histories, with regional routing handled for you.
+
+*PHP · Laravel · Guzzle · PHPUnit · OpenAPI*
+
+### [RiftJS ↗](https://github.com/Timmsy1998/RiftJS)
+
+A TypeScript-first Node.js library for Riot’s APIs. Player profiles, ranked summaries, match timelines, and Data Dragon support, with optional request pacing and paginated match fetching.
+
+*TypeScript · Node.js · Axios · npm*
+
+## A bit about how I work
+
+Most of my day-to-day work is in **Laravel, React, Vue, and TypeScript**. I enjoy untangling a slow query, making a migration less painful, and polishing the small interactions people notice when they use a product.
+
+I care about code the next person can understand. I also like sharing what I learn and leaving a project easier to work on than I found it.
+
+Gaming tools, broadcast overlays, and match data are where a lot of my side projects start. The repositories here are a look at what happens when that curiosity turns into code.
 
 ---
 
-## 🧠 Origin Story
-
-- Started coding in **2008** because I was curious  
-- Went professional in **2021** because apparently you can get paid for this  
-- Still debugging things at 2am because I enjoy it  
-
-I like building clean systems, smooth UIs, and tools that actually solve problems instead of pretending to.
-
-If something can be automated, optimised, or refactored, I will find it.
-
----
-
-## ⚡ Dev Mode: Activated
-
-I’m on the autistic spectrum.  
-
-That means:
-
-- Hyperfocus
-- Detail obsession
-- Refactoring for fun
-- Arguing with indentation
-
-Clean code is not optional. It is a lifestyle choice.
-
----
-
-## 🛠 Arsenal
-
-### 🐘 PHP Things
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
-
-Yes, I actually enjoy backend architecture.
-
----
-
-### ⚙️ JavaScript Chaos
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-
-I like frameworks.  
-I do not like rewriting the same form validation twice.
-
----
-
-### 🧱 Microsoft Energy
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-Yes, I can context switch without crying.
-
----
-
-### 🗃 Data Layer
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-Relational when it matters.  
-NoSQL when it makes sense.  
-Never because it's trendy.
-
----
-
-## 📌 Things I Built (And Did Not Abandon)
-
-<p align="center">
-  <a href="https://github.com/Timmsy1998/RH-Order-Processing">
-    <img src="./profile/cards/riskhub.svg" style="width:100%; max-width:520px;" />
-  </a>
-  <a href="https://github.com/Timmsy1998/fuse-stream-overlay-preview">
-    <img src="./profile/cards/fuse-overlay.svg" style="width:100%; max-width:520px;" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Timmsy1998/tech-task">
-    <img src="./profile/cards/tech-task.svg" style="width:100%; max-width:520px;" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Timmsy1998/RiftJS">
-    <img src="./profile/cards/riftjs.svg" style="width:100%; max-width:520px;" />
-  </a>
-</p>
-
----
-
-## 🖥️ System Diagnostics
-
-<p align="center">
-  <img src="./profile/cards/system-diagnostics.svg" style="width:100%; max-width:900px;" />
-</p>
-
----
-
-## 🎯 Current Objectives
-
-- Build cleaner systems than yesterday  
-- Make UIs smoother than they need to be  
-- Ship things properly  
-- Keep learning  
-
----
-
-<p align="center">
-  <strong>
-    Code is not magic.<br/>
-    It's controlled chaos with syntax highlighting.
-  </strong>
-</p>
+Open to frontend and full-stack roles. If you’ve got something interesting in mind, [let’s talk](mailto:jtimms1998@gmail.com).

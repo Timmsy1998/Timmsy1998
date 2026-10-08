@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-labelledby="title description">
+  <title id="title">James Timms — developer &amp; builder</title>
+  <desc id="description">Serious code. A human touch. A warm paper background with dark green lettering and a rust accent.</desc>
+  <rect width="900" height="260" rx="6" fill="#f8f7f3" />
+  <g fill="#242923" font-family="Arial, Helvetica, sans-serif">
+    <text x="36" y="47" font-size="32" font-weight="700">jt<tspan fill="#af4324">.</tspan></text>
+    <text x="100" y="36" font-size="14" font-weight="700">James Timms</text>
+    <text x="100" y="55" font-size="9" letter-spacing="1.6" fill="#62665e">DEVELOPER &amp; BUILDER</text>
+    <path d="M36 76H864" stroke="#dddfd5" />
+    <text x="36" y="143" font-size="49" font-weight="700">Serious code.</text>
+    <text x="36" y="204" font-family="Georgia, 'Times New Roman', serif" font-size="53" font-style="italic">A human touch<tspan fill="#af4324">.</tspan></text>
+    <text x="36" y="239" font-family="monospace" font-size="10" letter-spacing="1.2" fill="#62665e">JAMES TIMMS / TIMMSY</text>
+    <text x="864" y="239" text-anchor="end" font-family="monospace" font-size="10" fill="#62665e">TIMMSY.DEV ↗</text>
+  </g>
+  <g transform="translate(797 145)" stroke="#af4324" stroke-width="3" stroke-linecap="round">
+    <path d="M-29 0H29M0-29V29M-20-20L20 20M-20 20L20-20" />
+  </g>
+</svg>
